@@ -13,8 +13,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
-
 ### :man_technologist: About Me :
 
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
@@ -23,7 +21,6 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - 📚: I love reading books, particularly fiction and books about programming.
 - 🚶:  In my free time I go for a walk
 - 📧:How to reach me: officialzhukov@gmail.com
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
