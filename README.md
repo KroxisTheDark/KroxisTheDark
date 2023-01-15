@@ -3,7 +3,7 @@
   <div id="badges">
   <a href="https://www.youtube.com/channel/UCP8Xk81VDc-kBDhzniRbytQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    
+    <img src="https://komarev.com/ghpvc/?username=KroxisTheDark&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
 </div>
