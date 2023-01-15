@@ -20,5 +20,5 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - ⌨️: I’m working as a Front-end developer and contributing to frontend for building web applications.
 - 📚: I love reading books, particularly fiction and books about programming.
 - 🚶:  In my free time I go for a walk
-- 📧:How to reach me: ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- 📧:How to reach me: officialzhukov@gmail.com
 
