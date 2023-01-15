@@ -8,6 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=KroxisTheDark&style=flat-square&color=blue" alt=""/>
 </div>
 
+<h1>
+  Hello There! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ## 🎛️ Operating System
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows+XP&logoColor=FFFFFF&label=)
