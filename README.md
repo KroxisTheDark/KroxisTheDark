@@ -43,5 +43,5 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ---
 
 ### 🥇: Most used languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KroxisTheDark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
