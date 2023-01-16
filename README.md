@@ -39,9 +39,3 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### ⭐: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KroxisTheDark&theme=dark&border_radius=6.5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
----
-
-### 🥇: Most used languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KroxisTheDark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
