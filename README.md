@@ -8,12 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=KroxisTheDark&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">
-  Hello There!
-</h1>
-
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=FF0600&center=true&vCenter=true&width=435&lines=Junior+front-end+student+and+developer;May+the+Force+be+with+you.+Always." alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=FF0600&center=true&vCenter=true&width=435&lines=Hello!+%3A);Junior+front-end+student+and+developer" alt="Typing SVG"></a>
 </div>
 
 ### :man_technologist: About Me :
