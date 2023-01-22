@@ -9,8 +9,10 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=FF0600&center=true&vCenter=true&width=435&lines=Hello!+%3A);Junior+front-end+student+and+developer" alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=200&pause=1000&color=FF0600&center=true&vCenter=true&width=435&lines=Hello!+%3A);I+junior+front-end+student+and+developer" alt="Typing SVG"></a>
 </div>
+
+---
 
 ### :man_technologist: About Me :
 
