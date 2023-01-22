@@ -13,6 +13,10 @@
   May the Force be with you.
 </h1>
 
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+
 ### :man_technologist: About Me :
 
 I am a Front-end Developer from Russia (I don't support Russia-Ukraine War. #StopWar #Нетвойне!.
@@ -34,7 +38,6 @@ I am a Front-end Developer from Russia (I don't support Russia-Ukraine War. #Sto
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Python" width="40" height="40"/>
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div>
 
 ---
