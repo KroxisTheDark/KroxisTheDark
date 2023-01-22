@@ -10,13 +10,12 @@
 
 <h1 align="center">
   Hello There!
-  May the Force be with you.
 </h1>
 
 ---
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Front-end+student" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=16&pause=1000&color=7FFFD4&background=242424&center=true&vCenter=true&width=435&lines=Junior+front-end+student+and+developer" alt="Typing SVG" /></a> /></a>
 </div>
 
 ### :man_technologist: About Me :
