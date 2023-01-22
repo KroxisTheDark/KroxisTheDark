@@ -36,8 +36,3 @@ I am a Front-end Developer from Russia (I don't support Russia-Ukraine War. #Sto
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Python" width="40" height="40"/>
 </div>
-
----
-
-### ⭐: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KroxisTheDark&theme=dark&border_radius=6.5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
