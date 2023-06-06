@@ -16,7 +16,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Front-end Developer from Russia (I don't support Russia-Ukraine War. #StopWar #Нетвойне!.
+I am a Front-end Developer from Russia (I don't support Russia-Ukraine War. #StopWar #Нетвойне!).
 
 - ⌨️: I’m working as a Front-end developer and contributing to frontend for building web applications.
 - 📚: I love reading books, particularly science-fiction and books about programming.
