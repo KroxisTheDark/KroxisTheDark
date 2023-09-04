@@ -8,10 +8,9 @@
 
 I am a Front-end Developer from Russia.
 
-- ⌨️: I’m working as a Front-end developer and contributing to frontend for building web applications.
+- ⌨️: I’m working as a Front-end developer.
 - 📚: I love reading books, particularly science-fiction and books about programming.
-- 🚶:  In my free time I go for a walk
-- 📧:How to reach me: officialzhukov@gmail.com
+- 🚶: In my free time I go for a walk
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
