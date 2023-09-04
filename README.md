@@ -1,13 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="https://www.youtube.com/channel/UCP8Xk81VDc-kBDhzniRbytQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
-  <img src="https://komarev.com/ghpvc/?username=KroxisTheDark&style=flat-square&color=blue" alt=""/>
-</div>
-
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=435&lines=Hello+there;I'm+student+and+front-end+developer" alt="Typing SVG"></a>
 </div>
